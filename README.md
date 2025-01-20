@@ -2,11 +2,11 @@
 
 URL_PDF is a Chrome extension to convert a website to PDF, splitting it into individual A4 pages.
 
-**Usage**
+**<h2>Usage</h2>**
 
 To convert the current tab to PDF, just click on the extension and a popup appears which has a convert button, click on that. And tadoww your pdf is ready and then download.
 
-**Installation**
+**<h2>Installation</h2>**
 1. Clone the repo
 2. Open Chrome
 3. Go to chrome://extensions
